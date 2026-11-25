@@ -79,8 +79,8 @@ The three datasets are joined on `imdb_id`.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<Niranjansah91>/IMDB.git
+cd IMDB
 
 # 2. Install dependencies
 pip install pandas sqlalchemy ipython-sql prettytable==3.11.0 matplotlib seaborn jupyter
@@ -88,7 +88,7 @@ pip install pandas sqlalchemy ipython-sql prettytable==3.11.0 matplotlib seaborn
 # 3. Place the datasets in a local folder and update the file paths in the notebook
 
 # 4. Launch the notebook
-jupyter notebook IMDB2.ipynb
+IMDB_analysis.ipynb
 ```
 
 ---

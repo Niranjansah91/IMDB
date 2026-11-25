@@ -98,7 +98,7 @@ jupyter notebook IMDB2.ipynb
 ```
 ├── IMDB_Analysis.ipynb              # Main analysis notebook
 ├── README.md                        # Project documentation
-└── data/                            # (optional) place datasets here
+└── data/                            # datasets
 ```
 
 ---
